@@ -1,0 +1,5 @@
+data/rnz
+credentials
+.DS_Store
+.ipynb_checkpoints/
+data/.DS_Store

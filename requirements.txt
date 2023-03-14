@@ -1,0 +1,8 @@
+ipython
+jupyter
+jupyterlab
+openai-whisper==20230314
+pandas
+openai==0.27.2
+wget
+jiwer
